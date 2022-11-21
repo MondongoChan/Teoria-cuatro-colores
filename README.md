@@ -1,6 +1,6 @@
 # Teoria-cuatro-colores
 
-"Dícese que lo adyacente es lo que está al lado, lo contiguo o aledaño", tener en cuenta esta definición proveída del interner.
+"Dícese que lo adyacente es lo que está al lado, lo contiguo o aledaño", tener en cuenta esta definición proveída del internet.
 
 Nuestro código se fundamenta en que, cada usuario es el creador de su propio grafo. Recomendamos antes de usarlo leer atentamente:
 
